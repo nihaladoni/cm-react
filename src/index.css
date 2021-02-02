@@ -1,0 +1,12 @@
+.clickable {
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
